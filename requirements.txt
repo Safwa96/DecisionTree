@@ -2,8 +2,8 @@
 pandas ==0.25.1
 pydotplus == 2.0.2
 ipywidgets == 7.5.1
-sklearn.tree == 0.21.3
-sklearn.model_selection == 0.21.3
-sklearn == 0.21.3
-sklearn.externals.six == 0.21.3
+sklearn.tree ==0.22.2
+sklearn.model_selection == 0.22.2
+sklearn == 0.22.2
+sklearn.externals.six == 0.22.2
 IPython.display == 7.8.0
